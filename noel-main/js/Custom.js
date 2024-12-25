@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Giáng sinh zui ze nha !!!, Chúc bản thân luôn thành công trên con đường đã chọn. Một mùa noel thật ấm áp nha.",
+                        "Tui là Lê Hùng Cường, chúc mọi người giáng sinh vuiiii vẻ.",
                         ],
                         typeSpeed: 250,
                         startDelay: 100,
