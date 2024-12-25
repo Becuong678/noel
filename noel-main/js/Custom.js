@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Tui là Lê Hùng Cường, chúc mọi người giáng sinh vuiiii vẻ.",
+                        "Tui là Lê Hùng Cường, chúc mọi người giáng sinh vuiiii vẻ. Cường độc thânn",
                         ],
                         typeSpeed: 250,
                         startDelay: 100,
